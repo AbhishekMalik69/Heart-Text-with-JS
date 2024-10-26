@@ -1,5 +1,5 @@
 ## Auto Text-Effect Animation
 
-Shits humble
+**Display auto text effect.**
 -- by `Abhishek M.` adding from the feature-branch
 //For practing git
